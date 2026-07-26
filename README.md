@@ -22,4 +22,4 @@ This project analyzes customer demographics and market segmentation patterns usi
 4. Generate business insights.
 
 ## Screenshots
-(Add dashboard screenshots here)
+()
